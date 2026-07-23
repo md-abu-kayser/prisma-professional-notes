@@ -2,7 +2,6 @@
 name: Feature / topic request
 about: Suggest a new note, section, or example
 title: "[REQUEST] "
-labels: enhancement
 ---
 
 **What topic or example would you like added?**
