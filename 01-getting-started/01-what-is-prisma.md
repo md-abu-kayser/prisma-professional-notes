@@ -1,23 +1,5 @@
-# What Is Prisma
+# What is Prisma?
 
-> Part of **Prisma Professional Notes** — section `01-getting-started`
+Next‑generation ORM for Node.js and TypeScript. Consists of Prisma Client, Prisma Migrate, and Prisma Studio.
 
-## Overview
-
-_Add a concise explanation of **what is prisma** here._
-
-## Key Points
-
-- TODO: outline the main concepts
-- TODO: note common gotchas / edge cases
-- TODO: link to the relevant official Prisma docs page
-
-## Example
-
-```prisma
-// TODO: add a relevant schema or query example
-```
-
-## Further Reading
-
-- [Prisma Docs](https://www.prisma.io/docs)
+> 📘 Next: [Prisma vs Other ORMs](02-prisma-vs-other-orms.md)
