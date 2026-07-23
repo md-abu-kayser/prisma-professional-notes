@@ -1,23 +1,5 @@
-# Typescript And Nodejs Basics
+# TypeScript & Node.js Basics
 
-> Part of **Prisma Professional Notes** — section `00-prerequisites`
+Prisma is a TypeScript‑first ORM. Ensure you're comfortable with async/await, `tsconfig.json`, and module resolution.
 
-## Overview
-
-_Add a concise explanation of **typescript and nodejs basics** here._
-
-## Key Points
-
-- TODO: outline the main concepts
-- TODO: note common gotchas / edge cases
-- TODO: link to the relevant official Prisma docs page
-
-## Example
-
-```prisma
-// TODO: add a relevant schema or query example
-```
-
-## Further Reading
-
-- [Prisma Docs](https://www.prisma.io/docs)
+> 📘 Next: [Relational Database Concepts](02-relational-database-concepts.md)

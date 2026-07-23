@@ -1,23 +1,5 @@
 # Relational Database Concepts
 
-> Part of **Prisma Professional Notes** — section `00-prerequisites`
+Tables, primary/foreign keys, constraints, indexes. Prisma models map to tables.
 
-## Overview
-
-_Add a concise explanation of **relational database concepts** here._
-
-## Key Points
-
-- TODO: outline the main concepts
-- TODO: note common gotchas / edge cases
-- TODO: link to the relevant official Prisma docs page
-
-## Example
-
-```prisma
-// TODO: add a relevant schema or query example
-```
-
-## Further Reading
-
-- [Prisma Docs](https://www.prisma.io/docs)
+> 📘 Next: [ORMs & Why Use Them](03-orms-and-why-use-them.md)

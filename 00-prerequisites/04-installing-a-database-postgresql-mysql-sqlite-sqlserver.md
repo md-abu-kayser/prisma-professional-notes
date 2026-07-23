@@ -1,23 +1,8 @@
-# Installing A Database Postgresql Mysql Sqlite Sqlserver
+# Installing a Database
 
-> Part of **Prisma Professional Notes** — section `00-prerequisites`
+- **PostgreSQL**: `brew install postgresql` / Docker `postgres:16`.
+- **MySQL**: `brew install mysql` / Docker `mysql:8`.
+- **SQLite**: no installation needed; file‑based.
+- **SQL Server**: Docker `mcr.microsoft.com/mssql/server`.
 
-## Overview
-
-_Add a concise explanation of **installing a database postgresql mysql sqlite sqlserver** here._
-
-## Key Points
-
-- TODO: outline the main concepts
-- TODO: note common gotchas / edge cases
-- TODO: link to the relevant official Prisma docs page
-
-## Example
-
-```prisma
-// TODO: add a relevant schema or query example
-```
-
-## Further Reading
-
-- [Prisma Docs](https://www.prisma.io/docs)
+> 📘 Next: **01-getting-started** – [What is Prisma?](../01-getting-started/01-what-is-prisma.md)
